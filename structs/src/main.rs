@@ -7,7 +7,7 @@ fn main() {
     }
 
     // Create a person object
-    let mut user = Person {
+    let mut `user = Person {
         name: String::from("dj"),
         age: 25,
         can_drink: true,
